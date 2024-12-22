@@ -1,23 +1,21 @@
-{
-    "hwid_keys": [
-        "Syn-Fingerprint",
-        "Exploit-Guid",
-        "Krnl-Hwid",
-        "Seliware-Fingerprint",
-        "Wave-Fingerprint",
-        "Delta-Fingerprint",
-        "Codex-Fingerprint",
-        "SynapseZ-Fingerprint",
-        "Solara-Fingerprint",
-        "Xeno-Fingerprint",
-        "Nihon-Fingerprint",
-        "AppleWare-Fingerprint",
-        "JJSploit-Fingerprint",
-        "Zorara-Fingerprint",
-        "Macsploit-Fingerprint",
-        "VegaX-Fingerprint",
-        "Cryptic-Fingerprint",
-        "ArceusX-Fingerprint",
-        "Mint-Fingerprint"
-    ]
-}
+[
+    "Syn-Fingerprint",
+    "Exploit-Guid",
+    "Krnl-Hwid",
+    "Seliware-Fingerprint",
+    "Wave-Fingerprint",
+    "Delta-Fingerprint",
+    "Codex-Fingerprint",
+    "SynapseZ-Fingerprint",
+    "Solara-Fingerprint",
+    "Xeno-Fingerprint",
+    "Nihon-Fingerprint",
+    "AppleWare-Fingerprint",
+    "JJSploit-Fingerprint",
+    "Zorara-Fingerprint",
+    "Macsploit-Fingerprint",
+    "VegaX-Fingerprint",
+    "Cryptic-Fingerprint",
+    "ArceusX-Fingerprint",
+    "Mint-Fingerprint"
+]
