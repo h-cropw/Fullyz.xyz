@@ -14,8 +14,8 @@ or the use or other dealings in the software.
 
 EXCLUDED FILES:
 The following files are not the property of Fullyz.xyz and are excluded from this copyright:
-1. **Console.lua** - Copyright (C) [Original Author's Name] (https://github.com/h-cropw/Fullyz.xyz/blob/main/Console.lua)
-2. **notifications.lua** - Copyright (C) [Original Author's Name] (https://github.com/h-cropw/Fullyz.xyz/blob/main/notifications.lua)
+1. Console.lua - (https://github.com/h-cropw/Fullyz.xyz/blob/main/Console.lua)
+2. notifications.lua - (https://github.com/h-cropw/Fullyz.xyz/blob/main/notifications.lua)
 
 These files are included in the project for convenience but are subject to their own licensing terms as specified by their respective authors.
 
