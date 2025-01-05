@@ -7,9 +7,16 @@ The receipt or possession of the source code and/or any parts thereof does not c
 for any purpose other than the purpose for which they were provided to you.
 
 The software is provided "AS IS", without warranty of any kind, express or implied, including but not limited to
-the warranties of merchantability, fitness for a particular purpose and non infringement.
+the warranties of merchantability, fitness for a particular purpose and non-infringement.
 In no event shall the authors or copyright holders be liable for any claim, damages or other liability,
 whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software
 or the use or other dealings in the software.
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+EXCLUDED FILES:
+The following files are not the property of Fullyz.xyz and are excluded from this copyright:
+1. **Console.lua** - Copyright (C) [Original Author's Name] (https://github.com/h-cropw/Fullyz.xyz/blob/main/Console.lua)
+2. **notifications.lua** - Copyright (C) [Original Author's Name] (https://github.com/h-cropw/Fullyz.xyz/blob/main/notifications.lua)
+
+These files are included in the project for convenience but are subject to their own licensing terms as specified by their respective authors.
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software, except for the files listed under "EXCLUDED FILES."
