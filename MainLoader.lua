@@ -1,5 +1,4 @@
-print("The Fullyz.xyz development has been resumed! 14/12/2024")
+print("The Fullyz.xyz development has been resumed! 12/01/2025")
 print("https://discord.gg/ABP6aXf5PZ")
-print("Fullyz.xyz temporarily to Nexar! discord.gg/Nexar ")
---setclipboard("https://discord.gg/ABP6aXf5PZ")
---game:GetService("Players").LocalPlayer:Kick("The Fullyz.xyz development has been resumed, copied the discord invite into your clipboard!")
+setclipboard("https://discord.gg/ABP6aXf5PZ")
+game:GetService("Players").LocalPlayer:Kick("The Fullyz.xyz development has been resumed, copied the discord invite into your clipboard!")
