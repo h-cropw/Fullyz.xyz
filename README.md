@@ -1,7 +1,8 @@
 # Fullyz.xyz 
 ## Support & Community: https://discord.gg/ABP6aXf5PZ
-### Update Jan-05-2025
-Fullyz.xyz will have no key system after all.
+### What makes Fullyz.xyz unique?
+- Fullyz.xyz chooses quality over quantity. Besides that, we have NO key system, meaning it's completely free to use!
+
 
 ## Fullyz.xyz Main Loader:
 ```lua
