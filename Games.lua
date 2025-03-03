@@ -1,3 +1,3 @@
 return {
-    ["Emergency Hamburg"] = 7711635737,
+    ["Bubble Gum Simulator"] = 2512643572,
 }
