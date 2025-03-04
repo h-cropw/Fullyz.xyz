@@ -1,44 +1,38 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fullyz.xyz</title>
-</head>
-<body style="font-family: Arial, sans-serif; text-align: center; background-color: #f8f8f8; color: #333;">
+<h1 align="center">Fullyz.xyz</h1>
 
-    <h1>Fullyz.xyz</h1>
+![Fullyz.xyz Banner](https://github.com/h-cropw/Fullyz.xyz/blob/main/Fullyz.png)
 
-    <img src="https://github.com/h-cropw/Fullyz.xyz/blob/main/Fullyz.png" alt="Fullyz.xyz Banner" width="500">
+<h2 align="center">Support & Community</h2>
+<p align="center">Join our Discord server: <a href="https://discord.gg/cuCf3vHdjF">https://discord.gg/cuCf3vHdjF</a></p>
 
-    <h2>Support & Community:</h2>
-    <p><a href="https://discord.gg/cuCf3vHdjF" target="_blank">Join our Discord Server</a></p>
+<h3 align="center">What makes Fullyz.xyz unique?</h3>
+<ul>
+    <li>Fullyz.xyz chooses quality over quantity.</li>
+    <li>We have NO key system, meaning it's completely free to use!</li>
+</ul>
 
-    <h3>What makes Fullyz.xyz unique?</h3>
-    <p>Fullyz.xyz chooses quality over quantity. Besides that, we have <strong>NO key system</strong>, meaning it's completely free to use!</p>
+<h3 align="center">Fullyz.xyz Main Loader:</h3>
 
-    <h2>Fullyz.xyz Main Loader:</h2>
-    <pre><code>loadstring(game:HttpGet("https://raw.githubusercontent.com/h-cropw/Fullyz.xyz/refs/heads/main/MainLoader.lua"))()</code></pre>
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/h-cropw/Fullyz.xyz/refs/heads/main/MainLoader.lua"))()
+```
 
-    <h2>Supported Executors:</h2>
+<h3 align="left">Supported Executors:</h3>
 
-    <h3>Windows Executors 💻</h3>
-    <ul style="list-style: none; padding: 0;">
-        <li>Wave</li>
-        <li>Seliware</li>
-        <li>AWP.GG</li>
-        <li>Others</li>
-    </ul>
+<h4 align="left">Windows Executors 💻</h4>
+<ul>
+    <li>Wave</li>
+    <li>Seliware</li>
+    <li>AWP.GG</li>
+    <li>Others</li>
+</ul>
 
-    <h3>Mobile Executors 📱</h3>
-    <ul style="list-style: none; padding: 0;">
-        <li>Fluxus</li>
-        <li>Delta</li>
-        <li>Codex</li>
-        <li>Others</li>
-    </ul>
+<h4 align="left">Mobile Executors 📱</h4>
+<ul>
+    <li>Fluxus</li>
+    <li>Delta</li>
+    <li>Codex</li>
+    <li>Others</li>
+</ul>
 
-    <p><em>Fullyz.xyz might experience issues on mobile devices. Feel free to report bugs in our Discord server!</em></p>
-
-</body>
-</html>
+<p align="center"><i>*Fullyz.xyz might experience issues on mobile devices, feel free to report the bugs in our discord server!*</i></p>
