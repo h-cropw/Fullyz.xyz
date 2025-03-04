@@ -1,6 +1,6 @@
 <h1 align="center">Fullyz.xyz</h1>
 
-![Fullyz.xyz Banner](https://github.com/h-cropw/Fullyz.xyz/blob/main/FullyzXYZ.jpg)
+![Fullyz.xyz Banner](https://github.com/h-cropw/Fullyz.xyz/blob/main/Fullyz.xyz.jpg)
 
 <h2 align="center">Support & Community</h2>
 <p align="center">Join our Discord server: <a href="https://discord.gg/cuCf3vHdjF">https://discord.gg/cuCf3vHdjF</a></p>
