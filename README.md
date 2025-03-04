@@ -1,5 +1,5 @@
 # Fullyz.xyz 
-![Fullyz.xyz Banner]([https://your-image-url.com/image.png](https://github.com/h-cropw/Fullyz.xyz/blob/main/Fullyz.png))
+![Fullyz.xyz Banner](https://github.com/h-cropw/Fullyz.xyz/blob/main/Fullyz.png)
 ## Support & Community: https://discord.gg/ABP6aXf5PZ
 ### What makes Fullyz.xyz unique?
 - Fullyz.xyz chooses quality over quantity. Besides that, we have NO key system, meaning it's completely free to use!
