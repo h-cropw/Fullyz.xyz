@@ -17,22 +17,10 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/h-cropw/Fullyz.xyz/refs/heads/main/MainLoader.lua"))()
 ```
 
-<h3 align="left">Supported Executors:</h3>
-
-<h4 align="left">Windows Executors 💻</h4>
+<h3 align="left">Supported Games 🎮</h3>
 <ul>
-    <li>Wave</li>
-    <li>Seliware</li>
-    <li>AWP.GG</li>
-    <li>Others</li>
+    <li>Bubble Gum Simulator - 2512643572</li>
 </ul>
 
-<h4 align="left">Mobile Executors 📱</h4>
-<ul>
-    <li>Fluxus</li>
-    <li>Delta</li>
-    <li>Codex</li>
-    <li>Others</li>
-</ul>
 
 <p align="center"><i>*Fullyz.xyz might experience issues on mobile devices, feel free to report the bugs in our discord server!*</i></p>
