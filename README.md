@@ -14,7 +14,7 @@
 <h3 align="center">Fullyz.xyz Main Loader:</h3>
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/h-cropw/Fullyz.xyz/refs/heads/main/MainLoader.lua"))()
+loadstring(game:HttpGet("http://fullyz.xyz/scripts/Loader.lua"))()
 ```
 
 <h3 align="left">Supported Games 🎮</h3>
