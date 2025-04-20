@@ -1,5 +1,5 @@
-if game.PlaceId == 2512643572 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/h-cropw/Fullyz.xyz/refs/heads/main/Games/BubbleGumSimulator.lua"))()
-else
-    print("[Fullyz.xyz] Game not supported")
-end
+local message = "Get the new script at: https://fullyz.xyz/discord"
+
+pcall(function()
+    game.Players.LocalPlayer:Kick(message)
+end)
