@@ -20,7 +20,7 @@ loadstring(game:HttpGet("https://fullyz.xyz/scripts/Loader.lua"))()
 <h3 align="left">Supported Games 🎮</h3>
 <ul>
     <li>Bubble Gum Simulator - 2512643572</li>
-    <li>South Bronx: The Trenches - 10179538382 | Unstable Beta</li>
+    <li>South Bronx: The Trenches - 10179538382 |  Beta</li>
     <li>Emergency Hamburg - 7711635737 | In active development</li>
 </ul>
 
