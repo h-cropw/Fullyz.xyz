@@ -1,2 +1,5 @@
 *Fullyz.xyz.code-workspace
-*src/
+*src/ # no, this is not open source
+node_modules/
+.vercel/
+Build/

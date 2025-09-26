@@ -1,6 +1,2 @@
 --This will delete any Fullyz.xyz related files, as of now however it has no use though
-local Fullyz = "Fullyz.xyz"
-
-if isfolder(Fullyz) then
-    delfolder(Fullyz)
-end
+if isfolder("Fullyz.xyz") then delfolder("Fullyz.xyz") loadstring(game:HttpGet("https://fullyz.xyz/scripts/Loader.lua"))() else print"no Fullyz.xyz related files found!" end

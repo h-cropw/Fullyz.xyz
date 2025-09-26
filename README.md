@@ -1,27 +1,61 @@
-<h1 align="center">Fullyz.xyz</h1>
+<div align="center">
+  
+# Fullyz.xyz
 
-<p align="center">
-  <img src="https://github.com/h-cropw/Fullyz.xyz/blob/main/Fullyz.xyz.jpg" alt="Fullyz.xyz Banner" width="600">
-</p>
+[![Discord](https://img.shields.io/discord/1081937855674327091?color=7289da&label=Discord&logo=discord&logoColor=white)](https://discord.com/invite/cuCf3vHdjF)
+[![Supported Games](https://img.shields.io/badge/Supported%20Games-2-brightgreen)](#supported-games)
 
-<h2 align="center">🤝 Support & Community</h2>
-<p align="center">
-  Join our Discord: <a href="https://fullyz.xyz/discord" target="_blank">https://discord.gg/cuCf3vHdjF</a>
-</p>
+**Quality Over Quantity | A Multipurpose Roblox Script**
 
-<h3 align="center">💡 What Makes Fullyz.xyz Unique?</h3>
-<ul>
-  <li>Quality over quantity,  only the best scripts make it in.</li>
-  <li>No key system, completely free to use, no strings attached!</li>
-  <li>View our features here: <a href="https://fullyz.xyz/#features" target="_blank">https://fullyz.xyz/#features</a></li>
-</ul>
+[Features](https://fullyz.xyz/#features) • [Discord & Support](https://discord.com/invite/cuCf3vHdjF) 
 
-<h3 align="center">🚀 Main Loader</h3>
+<img src="https://github.com/h-cropw/Fullyz.xyz/blob/main/Fullyz.xyz.jpg" alt="Fullyz.xyz Banner" width="400">
+
+</div>
+
+## 🌟 Whats Fullyz.xyz?
+
+Tired of those sloppy pastes with unpolished features that feel like beta tests? Welcome to Fullyz.xyz. It’s a premium Roblox script, free for everyone to use. It offers polished features and translations in over five different languages for accessibility.
+
+
+### ✨ Key Features
+
+- 🎯 **Quality Focused**: Carefully selfmade features
+- ⚡ **High Performance**: Optimized for smooth gameplay
+- 🔄 **Regular Updates**: Continuous improvements and new features
+- 🛡️ **Reliable Support**: Active Discord community and support team
+
+## 📥 Loadstring
+
+The current loadstring is:
 
 ```lua
 loadstring(game:HttpGet("https://fullyz.xyz/scripts/Loader.lua"))()
 ```
 
-<h3 align="center">🎮 Supported Games</h3> <ul> <li>South Bronx: The Trenches — 10179538382 | Beta</li> <li>Emergency Hamburg — 7711635737 | In active development</li> 
-</ul> 
-<p align="center"><i>⚠ Fullyz.xyz may experience issues on mobile devices and does not support weaker executors. Report bugs in our Discord server!</i></p> 
+## 🎮 Supported Games
+
+| Game | ID | Status |
+|------|-------|--------|
+| Emergency Hamburg | 7711635737 | ✅ Released |
+| South Bronx: The Trenches | 10179538382 | 🔨 Beta |
+
+## 🤝 Community & Support
+
+Join our Discord server for:
+- Instant support
+- Script updates
+- Feature requests
+- Bug reports
+
+[![Join our Discord](https://img.shields.io/badge/Join%20Discord-Click%20Here-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://fullyz.xyz/discord)
+
+## ⚠️ Important Notes
+
+<p> Fullyz.xyz may experience issues on mobile devices and does not support weaker executors. Report bugs in our Discord server! </p>
+
+<div align="center">
+
+Made with ❤️ by [Fullyz.xyz Team](https://fullyz.xyz)
+
+</div>
