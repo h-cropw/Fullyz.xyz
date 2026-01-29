@@ -38,7 +38,9 @@ loadstring(game:HttpGet("https://fullyz.xyz/scripts/Loader.lua"))()
 | Game | ID | Status |
 |------|-------|--------|
 | Emergency Hamburg | 7711635737 | ✅ Released |
-| South Bronx: The Trenches | 10179538382 | 🔨 Beta |
+| Dictator | 118394242772887 | 💎 Released |
+| SCP: Roleplay | 5041144419 | 🔨 In Development |
+
 
 ## 🤝 Community & Support
 
